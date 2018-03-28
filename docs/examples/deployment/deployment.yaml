@@ -1,0 +1,7 @@
+note: Deployment Example
+sample: |
+  apiVersion: federation.k8s.io/v1alpha1
+  kind: Deployment
+  metadata:
+    name: deployment-example
+  spec:
